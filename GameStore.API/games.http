@@ -10,7 +10,7 @@ Content-Type: application/json
 {
     "name": "DOTA2",
     "genre": "Pro", 
-    "price": "0.00", 
+    "price": "1.00", 
     "releaseDate": "2010-08-11"
 }
 
@@ -24,3 +24,6 @@ Content-Type: application/json
     "price": 29.99, 
     "releaseDate": "2015-05-19"
 }
+
+###
+DELETE http://localhost:5044/games/1

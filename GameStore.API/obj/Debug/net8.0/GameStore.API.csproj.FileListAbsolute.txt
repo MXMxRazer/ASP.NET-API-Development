@@ -23,3 +23,10 @@ C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debu
 C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\GameStore.API.pdb
 C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\GameStore.API.genruntimeconfig.cache
 C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\ref\GameStore.API.dll
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\GameStore.API.sourcelink.json
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\GameStore.API.csproj.AssemblyReference.cache
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\letkr\OneDrive\Documents\.NET Projects\GameStore\GameStore.API\obj\Debug\net8.0\GameStor.26D12FD2.Up2Date
